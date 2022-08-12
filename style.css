@@ -1,0 +1,18 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+h1{
+    color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ABC{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.abc{
+    color: darkcyan;
+    text-decoration: underline;
+}
